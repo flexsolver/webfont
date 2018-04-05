@@ -1,0 +1,14 @@
+{
+  "name": "webfont",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "author": "Xiang <bob_01010@hotmail.com>",
+  "license": "MIT"
+}
